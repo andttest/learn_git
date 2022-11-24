@@ -1,4 +1,4 @@
 # learn_git
-used to train/learn git operation
-ADDED one line, 1st commit
-ADDED 2nd line, 2sd commti
+Deleted all lines, just first line,
+Add this, the second line in the Branch --> edit readme.md
+
